@@ -1,1 +1,1 @@
-This is the first project I made using Next JS. I basically copy pasted it (obviously, because I'm learning) from a guy called Web Dev Simplified on youtube. I'm a learning by doing type of guy, so there's probably more to come after this project. This is a reminder for me in the future that this is all where it began. So.. follow the stream, keep moving forward, you are not alone in this journey.
+
